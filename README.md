@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alessandrocdiasbr
-- 👀 I’m interested in schedule
+- 👀 I’m interested in learn to program
 - 🌱 I’m currently learning html, css e javascript
 - 📫 How to reach me: acdias83@gmail.com
 
